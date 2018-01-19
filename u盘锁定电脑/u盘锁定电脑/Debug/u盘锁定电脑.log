@@ -1,0 +1,18 @@
+﻿生成启动时间为 2018/1/19 17:33:23。
+     1>项目“I:\WorkSpace\win\somethingfun\u盘锁定电脑\u盘锁定电脑\u盘锁定电脑.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\u盘锁定电脑.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         I:\图像处理\图像处理软件\VC2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         I:\图像处理\图像处理软件\VC2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"I:\WorkSpace\win\somethingfun\u盘锁定电脑\Debug\u盘锁定电脑.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"I:\WorkSpace\win\somethingfun\u盘锁定电脑\Debug\u盘锁定电脑.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"I:\WorkSpace\win\somethingfun\u盘锁定电脑\Debug\u盘锁定电脑.lib" /MACHINE:X86 Debug\main.obj
+         u盘锁定电脑.vcxproj -> I:\WorkSpace\win\somethingfun\u盘锁定电脑\Debug\u盘锁定电脑.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\u盘锁定电脑.tlog\unsuccessfulbuild”。
+         正在对“Debug\u盘锁定电脑.tlog\u盘锁定电脑.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“I:\WorkSpace\win\somethingfun\u盘锁定电脑\u盘锁定电脑\u盘锁定电脑.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.23
